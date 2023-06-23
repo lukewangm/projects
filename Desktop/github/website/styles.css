@@ -1,0 +1,27 @@
+#user {
+    color:green;
+}
+#title {
+    text-align: center;
+    color:grey;
+}
+#submit {
+    margin-top: 5px;
+    
+}
+#submit:hover {
+    color: orange;
+  }
+#form {
+    padding-left: 45%;
+    padding-right: 45%;
+}
+#inline_test{
+    padding-top: 10px;
+}
+#middle{
+    display: inline;
+}
+#home_body{
+    text-align: center;
+}
